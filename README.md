@@ -6,9 +6,6 @@ In This Mini Project , Bascially I Applied CRUD Operations on Facts items
 
 ![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/78b52b28-1acf-4b9e-87fc-7138fda9e96d)
 
-![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/507e17bc-b787-45a3-8ede-f7d10be1d0e2)
-
-
 **List of facts**
 
 ![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/f48df8bc-e1bd-4c4e-ae5e-0992e238951b)
