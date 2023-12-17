@@ -1,8 +1,13 @@
-#Build a CRUD app with Go Fiber, Docker, and Postgres
+**Build a CRUD app with Go Fiber, Docker, and Postgres**
 
-Database Used: Postgres 
+**Database Used**: Postgres 
 
 In This Mini Project , Bascially I Applied CRUD Operations on Facts items 
+
+![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/78b52b28-1acf-4b9e-87fc-7138fda9e96d)
+
+![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/507e17bc-b787-45a3-8ede-f7d10be1d0e2)
+
 
 **List of facts**
 
@@ -18,6 +23,7 @@ In This Mini Project , Bascially I Applied CRUD Operations on Facts items
 
 
 **Show Facts**
+
 ![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/390294be-e5ed-4505-a7dd-0da906c0f5c0)
 
 **Edit facts**
@@ -29,7 +35,11 @@ In This Mini Project , Bascially I Applied CRUD Operations on Facts items
 ![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/d7246923-071d-4a01-94a7-5019aa9ed3a0)
 
 
-![Uploading image.png…]()
+![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/86becf49-25a3-475d-886d-3b1074673102)
+
+![image](https://github.com/dharmesh7239/zopsmart/assets/63228729/c0e2787f-0078-46c7-a26f-2ad8d0f6e494)
+
+
 
 
 
